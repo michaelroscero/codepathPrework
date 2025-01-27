@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-![](https://i.imgur.com/XNMhVxl.gif)
+![](https://i.imgur.com/XNMhVxl.mp4)
  
 ## App Brainstorming (Step 4)
 
